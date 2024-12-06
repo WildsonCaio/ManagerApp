@@ -34,7 +34,7 @@ Certifique-se de ter os seguintes softwares instalados no seu ambiente:
 Clone este repositório para o seu ambiente local:
 ```
         git clone https://github.com/WildsonCaio/ManagerApp.git
-        cd sistema-gestao-projetos
+        cd ManagerApp
 ```
 
 2. Clonar o Repositório
