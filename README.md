@@ -33,7 +33,7 @@ Certifique-se de ter os seguintes softwares instalados no seu ambiente:
 1. Clonar o Repositório
 Clone este repositório para o seu ambiente local:
 ```
-        git clone https://github.com/seu-usuario/sistema-gestao-projetos.git
+        git clone https://github.com/WildsonCaio/ManagerApp.git
         cd sistema-gestao-projetos
 ```
 
